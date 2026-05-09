@@ -81,7 +81,7 @@ weather-api/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/yourorg/weather-api
+git clone https://github.com/gabrielmenoi0/weather-api.git
 cd weather-api
 ```
 
