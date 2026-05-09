@@ -88,7 +88,6 @@ cd weather-api
 2. Configure as variáveis de ambiente:
 ```bash
 cp .env
-# Edite o .env e defina um STATIC_API_TOKEN
 ```
 
 3. Gere a documentação Swagger:
